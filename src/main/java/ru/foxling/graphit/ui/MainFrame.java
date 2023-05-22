@@ -104,7 +104,7 @@ import javax.swing.border.EtchedBorder;
 public class MainFrame
 extends JFrame implements ChartProgressListener {
 	private static final long serialVersionUID = 1L;
-	private static final String APPNAME = "Graphit - ИСУ \"Оптима\" ";
+	private static final String APPNAME = "Graphit";
 	
 	private JPanel contentPane;
 	private JMenu mFile;
